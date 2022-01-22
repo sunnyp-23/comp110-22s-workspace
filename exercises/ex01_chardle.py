@@ -32,5 +32,6 @@ if match == int(0):
     print("No instances of " + character + " found in " + word)
 if match == int(1):
     print("1 instance of " + character + " found in " + word)
+
 if match >= int(2):
     print(str(match) + " instances of " + character + " found in " + word)
