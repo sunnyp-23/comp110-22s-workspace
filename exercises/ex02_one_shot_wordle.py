@@ -45,3 +45,4 @@ if word == secret_word:
 # this part is gauged by the actual word instead of the guess_emoji because the guess_emoji can change depending on the number of letters in the secret word
 else:
     print("Not quite. Play again soon!")
+    
